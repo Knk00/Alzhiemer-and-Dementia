@@ -1,4 +1,5 @@
-#Dementia Predictive Analysis :
+Dementia Predictive Analysis 
+
 This is a project based on the prediction of whether a person, given the dataset, is demented or not.
 The dataset has been taken from OASIS-brains.org (Open Access Series of Imaging Studies). 
 OASIS has a collection of datasets on MRI scans taken volunteers.
